@@ -84,7 +84,8 @@ section {
     padding-left:0;
 }
 #tribute-events li{
-    padding-left:0;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 #tribute-link-container {
     background-color: #2C363F;
